@@ -1,10 +1,22 @@
 
-### Hi Developers 👋
+### Hi Data Enthusiasts 👋
 
 I'm
-Full Stack Web Developer
+Karan Verma – Data Analyst & Aspiring Business Intelligence Specialist
 
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I’m passionate about turning raw data into actionable insights that drive smarter business decisions. With over a year of experience in data analysis, I’ve worked on cleaning and validating datasets, building interactive dashboards, and performing KPI and statistical analysis to support inventory optimization, sales forecasting, and strategic planning.
+
+I have a wide range of skills that include:
+
+- Data Analysis & Programming: SQL (MySQL, PostgreSQL), Python (Pandas, NumPy), Excel (Pivot Tables, Power Query)
+
+- Data Visualization & BI: Power BI, Tableau (basic), dashboards, KPI reporting
+
+- Databases & Cloud: MySQL, MongoDB, Cassandra; Microsoft Azure fundamentals
+
+- Tools & Workflows: Jupyter Notebook, Git, VS Code, operational reporting
+
+Currently pursuing an MSc in Artificial Intelligence for Business in France, I’m seeking opportunities as a Data Analyst / BI Analyst to leverage data for business growth and informed decision-making.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
